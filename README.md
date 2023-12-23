@@ -1,0 +1,1 @@
+This project is a responsive Coffee Website created using HTML and CSS. It aims to provide a visually appealing and user-friendly interface for showcasing information about coffee, its varieties, and related content.
